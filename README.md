@@ -1,1 +1,0 @@
-GitHub Pages deployment package for JAP 6106.
